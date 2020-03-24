@@ -1,4 +1,4 @@
-msg = "Hello World jos"
+msg = "Hello World, my first  try in Github"
 print(msg)
 msg
 msg.capitalize() 
