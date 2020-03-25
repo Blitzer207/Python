@@ -1,5 +1,8 @@
 {
     "python.pythonPath": "c:\\Users\\sandr\\Desktop\\python\\.venv\\Scripts\\python.exe",
     "python.jediEnabled": false,
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\sandr\\Desktop\\python\\test"
+    ],
     "editor.wordWrap": "on"
 }
