@@ -11,3 +11,6 @@ py -3 -m venv .venv
 
 
 editor.wordWrap   :Controls how lines should wrap. 自动换行
+
+
+https://pypi.org/   module package web
